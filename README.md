@@ -33,7 +33,7 @@ A lightweight Python script that audits and displays detailed network interface 
 
    ```bash
    git clone https://github.com/aayush256-sys/windows-network-info.git
-   cd windows-network-audit
+   cd windows-network-info
    ```
 
 2. (Optional) Create a virtual environment:
