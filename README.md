@@ -58,4 +58,7 @@ python script.py
 ```
 
 
+## 🖼️ Screenshot
+
+![Sample Output](./image/Screenshot.png)
 
